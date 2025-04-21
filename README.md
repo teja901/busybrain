@@ -1,8 +1,8 @@
-pip install -r requirements.txt ---> to download all packages
-py manage.py makemigrations
-py manage.py migrate
-py manage.py scrape_review
-py manage.py runserver
+a)pip install -r requirements.txt ---> to download all packages
+b)py manage.py makemigrations
+c)py manage.py migrate
+d)py manage.py scrape_review
+e)py manage.py runserver
 
 
 1)Run The 'py manage.py scrape_reviews' after mgrations to load the reviews and product and saving them into db.
